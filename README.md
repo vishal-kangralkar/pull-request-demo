@@ -1,1 +1,1 @@
-This is branch A's change
+This is branch B's change
